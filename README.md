@@ -1,5 +1,5 @@
 # Netlify Configuations
-### - contains configuration files for React app deployment in Netlify
+###contains configuration files for React app deployment in Netlify
 
 #### CORS
 _headers
