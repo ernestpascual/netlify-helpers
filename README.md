@@ -10,3 +10,5 @@ _redirects - enables routing fixing 404 errors
 
 #### How to use
 place it on your production build or public folder
+
+For more information check out the [Docs](https://www.netlify.com/docs/headers-and-basic-auth/). 
